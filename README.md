@@ -16,3 +16,19 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
 <hr>
 
+<h3> Skills </h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src = "https://img.shields.io/badge/MySQL-339933?style=flat&logo=mySQL&logoColor=white">
+  <img src = "https://img.shields.io/badge/PostGre-0052CC?style=flat&logo=postgresql&logoColor=white">
+  <img src = "https://img.shields.io/badge/SQL%20Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/-Talend-eed718?style=flat&logo=talend&logoColor=ffffff">
+  <img src = "https://img.shields.io/badge/AWS%20Glue-0052CC?style=flat&logo=amazonrds&logoColor=white">
+  <img src="http://img.shields.io/badge/-Power%20BI-F1502F?style=flat&logo=powerbi&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Tableau-339933?style=flat&logo=tableau&logoColor=FFFFFF">
+  <img src = "https://img.shields.io/badge/Amazon%20Web%20Services-4EAA25?style=flat&logo=amazonaws&logoColor=white">
+  <img src = "https://img.shields.io/badge/Microsoft%20Azure-CB3837?style=flat&logo=microsoftazure&logoColor=white">
+  <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white"> 
+</p>
+
