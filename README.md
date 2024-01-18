@@ -32,4 +32,14 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   <img src = "https://img.shields.io/badge/Microsoft%20Azure-CB3837?style=flat&logo=microsoftazure&logoColor=white">
   <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white"> 
   <img src = "https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
+  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+  [![](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) 
+  [![](https://img.shields.io/badge/SciPy-654FF0?style=flat&logo=SciPy&logoColor=white)](https://www.scipy.org) 
+  [![](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org) 
+  [![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+  [![](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
+  [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)
+  [![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
+  [![](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+  [![](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com)
 </p>
