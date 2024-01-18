@@ -19,7 +19,8 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 <h3> Skills </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+
+  [![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
   <img src = "https://img.shields.io/badge/MySQL-339933?style=flat&logo=mySQL&logoColor=white">
   <img src = "https://img.shields.io/badge/PostGre-0052CC?style=flat&logo=postgresql&logoColor=white">
   <img src = "https://img.shields.io/badge/SQL%20Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
@@ -30,5 +31,12 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   <img src = "https://img.shields.io/badge/Amazon%20Web%20Services-4EAA25?style=flat&logo=amazonaws&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft%20Azure-CB3837?style=flat&logo=microsoftazure&logoColor=white">
   <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
 </p>
 
+<h3> My Stats </h3>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&langs_count=5&theme=buefy) 
+<br>
+<!-- <p align='center'><img width="463px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddhavz&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/>
+  </p> -->
