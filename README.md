@@ -5,10 +5,16 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 - 🌱 I’m currently learning **dbt and Snowflake**
 
 - 💬 Ask me about **Data Analytics and Visualization**
-
-- 📫 How to reach me **pawar.pa@northeastern.edu**
   
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/payal-pawar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[https://www.linkedin.com/in/pranav-arun-kengale](https://www.linkedin.com/in/payal-pawar/)](https://www.linkedin.com/in/payal-pawar/)/" height="30" width="40" /></a></h3>
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1zSXsLW4Sv8YG_1nPpRaLYZbFxH__koXs/view?usp=sharing )
+
+<hr>
+
+🤝 &nbsp; Connect with Me 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
