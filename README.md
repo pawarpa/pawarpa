@@ -8,8 +8,6 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   
 - 📄 Check out my <a href="https://drive.google.com/file/d/1rlL7xBR8izbofvPAR_cFkf_Z1GgVRD2k/view?usp=sharing" target="_blank">Resume</a>
 
-<p>Check out my <a href="https://drive.google.com/file/d/1rlL7xBR8izbofvPAR_cFkf_Z1GgVRD2k/view?usp=sharing" target="_blank">Resume</a>.</p>
-
 <hr>
 
 🤝 &nbsp; Connect with Me 
