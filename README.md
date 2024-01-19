@@ -14,6 +14,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
+[![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
 <hr>
 
 <h3> Skills </h3>
@@ -21,9 +22,10 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 <p>
 
   [![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+  [![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
   <img src = "https://img.shields.io/badge/MySQL-339933?style=flat&logo=mySQL&logoColor=white">
-  <img src = "https://img.shields.io/badge/PostGre-0052CC?style=flat&logo=postgresql&logoColor=white">
-  <img src = "https://img.shields.io/badge/SQL%20Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src = "https://img.shields.io/badge/PostgreSQL-0052CC?style=flat&logo=postgresql&logoColor=white">
+  <img src = "https://img.shields.io/badge/Microsoft SQL Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
   <img src="https://img.shields.io/badge/-Talend-eed718?style=flat&logo=talend&logoColor=ffffff">
   <img src = "https://img.shields.io/badge/AWS%20Glue-0052CC?style=flat&logo=amazonrds&logoColor=white">
   <img src="http://img.shields.io/badge/-Power%20BI-F1502F?style=flat&logo=powerbi&logoColor=FFFFFF">
@@ -44,8 +46,6 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   [![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
   [![](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)
-  [![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
-  [![](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)](https://www.json.org/json-en.html)
   [![](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com)
   
   
