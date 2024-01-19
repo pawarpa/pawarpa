@@ -21,19 +21,26 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 <p>
 
-  [![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+  [![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=white)](https://www.python.org)
   [![](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org)
   <img src = "https://img.shields.io/badge/MySQL-339933?style=flat&logo=mySQL&logoColor=white">
   <img src = "https://img.shields.io/badge/PostgreSQL-0052CC?style=flat&logo=postgresql&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft SQL Server-557C94?style=flat&logo=microsoftsqlserver&logoColor=white">
+  [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+  <img src="https://img.shields.io/badge/-Alteryx-0096FF?style=flat&logo=alteryx&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-Talend-eed718?style=flat&logo=talend&logoColor=ffffff">
-  <img src = "https://img.shields.io/badge/AWS%20Glue-0052CC?style=flat&logo=amazonrds&logoColor=white">
+  <img src = "https://img.shields.io/badge/ER/Studio-0052CC?style=flat&logo=erstudio&logoColor=white">
   <img src="http://img.shields.io/badge/-Power%20BI-F1502F?style=flat&logo=powerbi&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Tableau-339933?style=flat&logo=tableau&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Looker-dc143c?style=flat&logo=looker&logoColor=FFFFFF">
   <img src = "https://img.shields.io/badge/Google BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white">
   <img src = "https://img.shields.io/badge/Amazon%20Web%20Services-4EAA25?style=flat&logo=amazonaws&logoColor=white">
   <img src = "https://img.shields.io/badge/Microsoft%20Azure-CB3837?style=flat&logo=microsoftazure&logoColor=white">
-  <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/Amazon%20S3-1679A7?style=flat&logo=amazons3&logoColor=white">
+  <img src = "https://img.shields.io/badge/AWS%20Glue-0052CC?style=flat&logo=amazonrds&logoColor=white">
+  <img src = "https://img.shields.io/badge/Amazon CloudWatch-FF9900?style=flat&logo=amazoncloudwatch&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/AWS Lambda-babb1e?style=flat&logo=amazoncloudwatch&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/Amazon QuickSight-11073d?style=flat&logo=amazoncloudwatch&logoColor=white"> 
   <img src = "https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
   <img src = "https://img.shields.io/badge/Snowflake-abf0ff?style=flat&logo=snowflake&logoColor=white">
   <img src = "https://img.shields.io/badge/Matplotlib-339933?style=flat&logo=matplotlib&logoColor=white">
@@ -46,7 +53,12 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   [![](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
   [![](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org)
+  <img src = "https://img.shields.io/badge/RStudio-217346?style=flat&logo=rstudio&logoColor=white">
+  <img src = "https://img.shields.io/badge/Jupyter Notebook-FF6F00?style=flat&logo=jupyter&logoColor=white">
   [![](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com)
+  <img src = "https://img.shields.io/badge/Trello-4285F4?style=flat&logo=trello&logoColor=white">
+  [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com)
+
   
   
 </p>
