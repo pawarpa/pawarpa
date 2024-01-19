@@ -6,7 +6,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 - 💬 Ask me about **Data Analytics and Visualization**
   
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1zSXsLW4Sv8YG_1nPpRaLYZbFxH__koXs/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1rlL7xBR8izbofvPAR_cFkf_Z1GgVRD2k/view?usp=sharing)
 
 <hr>
 
