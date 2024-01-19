@@ -6,7 +6,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 - 💬 Ask me about **Data Analytics and Visualization**
   
-- 📄 Check out my <a href="https://drive.google.com/drive/folders/1lM_BEFH2PnsOD4ZHE2PD48NnUqZbjeDD?usp=sharing" target="_blank">Resume</a>
+- 📄 Check out my <a href="https://drive.google.com/file/d/1PeAzi3QCq_nP4kmHy1C4bAWVzk0CnDhP/view?usp=sharing" target="_blank">Resume</a>
 
 <hr>
 
@@ -15,6 +15,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
 [![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
+
 <hr>
 
 <h3> Skills </h3>
