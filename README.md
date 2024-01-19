@@ -56,6 +56,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   <img src = "https://img.shields.io/badge/RStudio-217346?style=flat&logo=rstudio&logoColor=white">
   <img src = "https://img.shields.io/badge/Jupyter Notebook-FF6F00?style=flat&logo=jupyter&logoColor=white">
   [![](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252)](https://colab.research.google.com)
+  <img src = "https://img.shields.io/badge/Visual Studio Code-249ee4?style=flat&logo=visualstudiocode&logoColor=white">
   <img src = "https://img.shields.io/badge/Trello-4285F4?style=flat&logo=trello&logoColor=white">
   [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
