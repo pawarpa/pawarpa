@@ -6,7 +6,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 - 💬 Ask me about **Data Analytics and Visualization**
   
-- 📄 Check out my <a href="https://drive.google.com/file/d/1PeAzi3QCq_nP4kmHy1C4bAWVzk0CnDhP/view?usp=sharing" target="_blank">Resume</a>
+-  :chart_with_upwards_trend: Check out my <a href="https://public.tableau.com/app/profile/payal.pawar7329/vizzes" target="_blank">Tableau Vizzes</a>
 
 <hr>
 
