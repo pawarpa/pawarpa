@@ -2,7 +2,7 @@
 
 I am a graduate student at **Northeastern University**, pursuing **Master of Science in Information Systems** with coursework focused on database management, business intelligence, data analytics, and visualization. With a strong academic foundation and hands-on experience, I'm passionate about leveraging data-driven insights to drive informed decision-making and solve complex business problems.
 
-- 🌱 I’m currently working on **dbt and Snowflake**
+- 🌱 I’m currently learning **dbt and Snowflake**
 
 - 💬 Ask me about **Data Analytics and Visualization**
   
@@ -10,15 +10,7 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 <hr>
 
-🤝 &nbsp; Connect with Me 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
-[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
-[![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
-
-<hr>
-
-<h3> Skills </h3>
+<h3> What I Bring To The Table ? </h3>
 
 <p>
 
@@ -61,6 +53,36 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
   <img src = "https://img.shields.io/badge/Trello-4285F4?style=flat&logo=trello&logoColor=white">
   [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
-  
-  
 </p>
+
+<hr>
+
+<h3> Whats my Motivation ? </h3>
+
+> "You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temparature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisons."
+
+During my bachelor's degree, we had a course on Database Management Systems (DBMS), and it was during this course that my interest in data analysis developed. My professor explained the significance of data analysis in managing large volumes of data and deriving actionable insights from it. 
+
+Specifically, he highlighted the need for data analysis in the context of the supermarket business, where vast amounts of data are generated daily through sales transactions, inventory records, customer information, and more. 
+
+Understanding the role of data analysis in improving various aspects of supermarket operations, such as inventory management, pricing and promotion Optimization, customer satisfaction, fraud detection, loss prevention and profitability, intrigued me. It became clear to me that the ability to extract valuable information from complex datasets could drive informed decision-making and lead to significant business benefits.
+
+<hr>
+
+### ⚙️ GitHub Analytics
+
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawarpa&show_icons=true&locale=en&layout=compact&theme=merko" alt="pawarpa" /></p><br>
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawarpa&show_icons=true&locale=en&theme=merko" alt="pawarpa" /></p><br>
+-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarpa&&theme=merko" alt="pawarpa" /></p>
+
+🤝 &nbsp; Connect with Me !! 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
+[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
+[![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
+
