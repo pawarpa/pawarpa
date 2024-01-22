@@ -2,7 +2,7 @@
 
 > You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temperature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisions.”
 
-<h3> About me </h3>
+<h3> Who Am I ? </h3>
 
 I am a graduate student at **Northeastern University**, pursuing **Master of Science in Information Systems** with coursework focused on database management, business intelligence, data analytics, and visualization. With a strong academic foundation and hands-on experience, I'm passionate about leveraging data-driven insights to drive informed decision-making and solve complex business problems.
 
@@ -82,6 +82,28 @@ Understanding the role of data analysis in improving various aspects of supermar
 
 <hr>
 
+<h3>What I have Learnt ? </h3>
+
+<ul>
+        <li>
+            <strong>Master of Science, Information Systems</strong>
+            <br>
+            <strong>Expected May 2024</strong><br>
+            <em>Northeastern University</em><br>
+            <em>Boston, MA</em>
+        </li>
+    </ul>
+ <ul>
+        <li>
+            <strong>Bachelor of Engineering, University of Mumbai</strong>
+            <br>
+            <strong>2017-2021</strong><br>
+            <em>University of Mumbai</em><br>
+            <em>Mumbai, India</em>
+        </li>
+  </ul>
+
+<hr>
 <h3>🤝 &nbsp;Connect with Me !! </h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
