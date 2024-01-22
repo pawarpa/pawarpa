@@ -1,5 +1,9 @@
 <h1 align="center">Hey there, Data Enthusiast! :eyes:</h1>
 
+> You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temperature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisions.”
+
+<h3> About me </h3>
+
 I am a graduate student at **Northeastern University**, pursuing **Master of Science in Information Systems** with coursework focused on database management, business intelligence, data analytics, and visualization. With a strong academic foundation and hands-on experience, I'm passionate about leveraging data-driven insights to drive informed decision-making and solve complex business problems.
 
 - 🌱 I’m currently learning **dbt and Snowflake**
@@ -59,8 +63,6 @@ I am a graduate student at **Northeastern University**, pursuing **Master of Sci
 
 <h3> Whats my Motivation ? </h3>
 
-> "You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temparature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisons."
-
 During my bachelor's degree, we had a course on Database Management Systems (DBMS), and it was during this course that my interest in data analysis developed. My professor explained the significance of data analysis in managing large volumes of data and deriving actionable insights from it. 
 
 Specifically, he highlighted the need for data analysis in the context of the supermarket business, where vast amounts of data are generated daily through sales transactions, inventory records, customer information, and more. 
@@ -69,7 +71,25 @@ Understanding the role of data analysis in improving various aspects of supermar
 
 <hr>
 
-### ⚙️ GitHub Analytics
+<h3>Where I’ve Worked ? </h3>
+
+| _Role_ | _Company_ | _Location_ | _Duration_ |
+|---|---|---|---|
+| _FCE Data Analyst_ | _Northeastern University_ | _Boston, MA_ | _September 2022 – Present_ |
+| _Data Quality Analyst_ | _Tata Consultancy Services_ |  _Mumbai, India_ | _June 2021 – July 2022_ |
+| _Business Analyst Intern_ | _CFI_ | _Mumbai, India_ | _December 2020 – May 2021_  |
+|  _Data Science Intern_ | _ZS Microtech Pvt. Ltd_ | _Mumbai, India_ | _June 2019 – July 2019_ |
+
+<hr>
+
+<h3>🤝 &nbsp;Connect with Me !! </h3>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
+[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
+[![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
+
+<hr>
+<h3> My GitHub Analytics </h3>
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawarpa&show_icons=true&locale=en&layout=compact&theme=merko" alt="pawarpa" /></p><br>
@@ -79,10 +99,4 @@ Understanding the role of data analysis in improving various aspects of supermar
 -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawarpa&&theme=merko" alt="pawarpa" /></p>
-
-🤝 &nbsp; Connect with Me !! 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
-[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
-[![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
 
