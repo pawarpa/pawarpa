@@ -75,7 +75,7 @@ Understanding the role of data analysis in improving various aspects of supermar
 
 | _Role_ | _Company_ | _Location_ | _Duration_ |
 |---|---|---|---|
-| _FCE Data Analyst_ | _Northeastern University_ | _Boston, MA_ | _September 2022 – Present_ |
+| _Data Analyst_ | _Northeastern University_ | _Boston, MA_ | _September 2022 – Present_ |
 | _Data Quality Analyst_ | _Tata Consultancy Services_ |  _Mumbai, India_ | _June 2021 – July 2022_ |
 | _Business Analyst Intern_ | _CFI_ | _Mumbai, India_ | _December 2020 – May 2021_  |
 |  _Data Science Intern_ | _ZS Microtech Pvt. Ltd_ | _Mumbai, India_ | _June 2019 – July 2019_ |
@@ -88,16 +88,16 @@ Understanding the role of data analysis in improving various aspects of supermar
         <li>
             <strong>Master of Science, Information Systems</strong>
             <br>
-            <strong>Expected May 2024</strong><br>
+            <strong><em>Expected May 2024</em></strong><br>
             <em>Northeastern University</em><br>
             <em>Boston, MA</em>
         </li>
     </ul>
  <ul>
         <li>
-            <strong>Bachelor of Engineering, University of Mumbai</strong>
+            <strong>Bachelor of Engineering, Information Technology</strong>
             <br>
-            <strong>2017-2021</strong><br>
+            <strong><em>2017-2021</em></strong><br>
             <em>University of Mumbai</em><br>
             <em>Mumbai, India</em>
         </li>
