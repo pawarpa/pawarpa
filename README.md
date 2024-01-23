@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, Data Enthusiast! :eyes:</h1>
 
-> You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temperature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisions.”
+> "You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temperature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisions.”
 
 <h3> Who Am I ? </h3>
 
