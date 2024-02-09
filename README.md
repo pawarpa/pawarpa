@@ -108,7 +108,6 @@ Understanding the role of data analysis in improving various aspects of supermar
 <h3>🤝 &nbsp;Connect with Me !! </h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payal-pawar/)
-[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/payal.pawar7329/vizzes)
 [![](https://img.shields.io/badge/Outlook-249ee4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pawar.pa@northeastern.edu)
 
 <hr>
