@@ -83,7 +83,7 @@ Understanding the role of data analysis in improving various aspects of supermar
 
 <hr>
 
-<h3>What I have Learnt ? </h3>
+<h3>What I have Studied ? </h3>
 
 <ul>
         <li>
