@@ -75,7 +75,7 @@ Understanding the role of data analysis in improving various aspects of supermar
 
 | _Role_ | _Company_ | _Location_ | _Duration_ |
 |---|---|---|---|
-| _FCE Data Analyst_ | _Northeastern University_ | _Boston, MA_ | _September 2022 – Present_ |
+| _Data Analyst_ | _Northeastern University_ | _Boston, MA_ | _September 2022 – Present_ |
 | _Associate System Engineer_ | _Tata Consultancy Services_ |  _Mumbai, India_ | _June 2021 – July 2022_ |
 | _Data Analyst Intern_ | _CFI_ | _Mumbai, India_ | _December 2020 – May 2021_  |
 | _Research Intern_ | _Indicium Hub_ | _Remote_ | _July 2020 – August 2021_  |
