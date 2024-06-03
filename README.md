@@ -71,26 +71,13 @@ Understanding the role of data analysis in improving various aspects of supermar
 
 <hr>
 
-<h3>Where I’ve Worked ? </h3>
-
-| _Role_ | _Company_ | _Location_ | _Duration_ |
-|---|---|---|---|
-| _Data Analyst_ | _Northeastern University_ | _Boston, MA_ | _September 2022 – Present_ |
-| _Data Quality Analyst_ | _Tata Consultancy Services_ |  _Mumbai, India_ | _June 2021 – July 2022_ |
-| _Business Analyst_ | _CFI_ | _Mumbai, India_ | _December 2020 – May 2021_  |
-| _Research Intern_ | _Indicium Hub_ | _Remote_ | _July 2020 – August 2021_  |
-| _Data Analyst_ | _Ukay Metal Industries Pvt. Ltd_ | _Remote_ | _August 2019 – July 2020_  |
-|  _Data Science Intern_ | _ZS Microtech Pvt. Ltd_ | _Mumbai, India_ | _June 2019 – July 2019_ |
-
-<hr>
-
 <h3>What I have Studied ? </h3>
 
 <ul>
         <li>
             <strong>Master of Science, Information Systems</strong>
             <br>
-            <strong><em>Expected May 2024</em></strong><br>
+            <strong><em>Sep'22 - May 2024</em></strong><br>
             <em>Northeastern University</em><br>
             <em>Boston, MA</em>
         </li>
@@ -99,7 +86,7 @@ Understanding the role of data analysis in improving various aspects of supermar
         <li>
             <strong>Bachelor of Engineering, Information Technology</strong>
             <br>
-            <strong><em>2017-2021</em></strong><br>
+            <strong><em>Aug'17- Jun'21</em></strong><br>
             <em>University of Mumbai</em><br>
             <em>Mumbai, India</em>
         </li>
