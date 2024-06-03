@@ -1,7 +1,5 @@
 <h1 align="center">Hey there, Data Enthusiast! :eyes:</h1>
 
-> "You would not want to eat a cup of flour, but bake it into a cake with butter, eggs and sugar for the right amount of time at the right temperature, it is transformed into something delicious. Like wise, raw data is unpalatable to the business person who needs it to make decisions.”
-
 <h3> Who Am I ? </h3>
 
 As a recent graduate from **Northeastern University** with a **Master of Science in Information Systems**, I have honed my skills in database management, business intelligence, data analytics, and visualization. With a strong academic foundation and hands-on experience, I'm passionate about leveraging data-driven insights to drive informed decision-making and solve complex business problems.
