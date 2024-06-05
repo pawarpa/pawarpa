@@ -75,7 +75,7 @@ Understanding the role of data analysis in improving various aspects of supermar
         <li>
             <strong>Master of Science, Information Systems</strong>
             <br>
-            <strong><em>Sep'22 - May 2024</em></strong><br>
+            <strong><em>Sep'22 - May'24</em></strong><br>
             <em>Northeastern University</em><br>
             <em>Boston, MA</em>
         </li>
